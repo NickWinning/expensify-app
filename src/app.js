@@ -6,6 +6,7 @@ import ReactDOM from 'react-dom'
 import { Provider } from 'react-redux'
 import { addExpense } from './actions/expenses'
 import { setTextFilter } from './actions/filters'
+import moment from 'moment'
 import 'normalize.css/normalize.css'
 import './styles/styles.scss'
 
