@@ -18,6 +18,5 @@ exports[`should render Header correctly 1`] = `
   >
     Create Expense
   </NavLink>
-  u
 </header>
 `;
